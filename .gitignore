@@ -1,0 +1,10 @@
+*__pycache__
+pretrain
+result/
+.idea/
+log_diretory/
+mono_depth2_mpeg/
+mono_depth2_mpeg_nointrin/
+mpeg_list - 복사본/
+gt/
+test.py
